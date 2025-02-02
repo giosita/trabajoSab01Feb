@@ -1,0 +1,21 @@
+########################################
+Trabajo realizado por D'angela Pérez.
+########################################
+
+Diseño inspirado en la página de Netflix (algo)
+Contiene los archivos del sitio y la maqueta.
+
+Estructura:
+
++ Assets: Carpeta de recursos
+  ++ img:
+	+++ logo.png
+	+++ maqueta - iniciar sesion.png
+	+++ maqueta - pagina principal.png
+	+++ maqueta - registro.png
++ CSS : Dentro se encuentra la hoja de estilos
++ pages: Dentro se encuentra las páginas de inicio de sesión y registro
++ index.html: Archivo principal del sitio
++ readme : Este archivo con la explicación según a solicitud del profesor Max
+
+

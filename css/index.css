@@ -1,0 +1,65 @@
+/*Generales*/
+:root {
+    color-scheme: dark;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin:0 ;
+    text-align: center;
+}
+
+/*Componentes*/
+nav{
+    padding: 20px;
+}
+footer{
+    margin-top: 20px;
+}
+
+a {
+   text-decoration: none;
+}
+/*Clases*/
+.title{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.btn{
+    padding: 8px;
+    border-radius: 1em;
+    background-color: red;
+}
+
+.btn-01{
+    color: white;
+}
+.btn-02{
+    color:darkgoldenrod;
+    background-color:azure;
+}
+
+.btn-03{
+    color:white;
+    background-color:darkslategray;
+}
+.btn-action{
+    background-color:black ;
+    color: beige;
+    
+}
+.card{
+    border:1px solid red;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.plan
+{
+    color:darkgoldenrod;
+}
+
+footer{
+    margin-top: 20px;
+}
+
+.form-item {
+ padding: 12px;
+}
